@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaDance:EID_JellyFrog"],
-    "price": 500
+    "itemGrants": ["AthenaCharacter:CID_663_Athena_Commando_F_Frogman"],
+    "price": 800
   },
   "daily2": {
-    "itemGrants": ["AthenaDance:EID_TakeTheW"],
-    "price": 500
+    "itemGrants": ["AthenaDance:EID_LasagnaDance"],
+    "price": 800
   },
   "daily3": {
-    "itemGrants": ["AthenaGlider:Umbrella_PaperParasol"],
-    "price": 500
+    "itemGrants": ["AthenaDance:EID_RaiseTheRoof"],
+    "price": 800
   },
   "daily4": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_122_Witch"],
-    "price": 800
+    "itemGrants": ["AthenaBackpack:BID_273_AssassinSuitCoin"],
+    "price": 1000
   },
   "daily5": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_044_TacticalUrbanHammer"],
-    "price": 500
-  },
-  "daily6": {
-    "itemGrants": ["AthenaCharacter:CID_214_Athena_Commando_F_FootballReferee"],
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_035_Prismatic"],
     "price": 800
   },
+  "daily6": {
+    "itemGrants": ["AthenaGlider:Glider_ID_133_BandageNinja"],
+    "price": 1200
+  },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_753_Athena_Commando_F_Hostile"],
+    "itemGrants": ["AthenaCharacter:CID_392_Athena_Commando_F_BountyBunny"],
     "price": 1200
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_696_Athena_Commando_F_DarkHeart"],
+    "itemGrants": ["AthenaCharacter:CID_748_Athena_Commando_F_Hitman"],
     "price": 1500
   },
   "featured3": {
-    "itemGrants": ["AthenaGlider:Glider_ID_140_ShatterFly"],
-    "price": 1200
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_190_GolfClub"],
+    "price": 800
   }
 }
