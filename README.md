@@ -1,12 +1,12 @@
-CID_696_Athena_Commando_F_DarkHeart, 1500
-CID_753_Athena_Commando_F_Hostile, 1200
-Glider_ID_140_ShatterFly, 1200
+CID_748_Athena_Commando_F_Hitman, 1500
+CID_392_Athena_Commando_F_BountyBunny, 1200
+Pickaxe_ID_190_GolfClub, 1200
 na
 na
 na
-CID_214_Athena_Commando_F_FootballReferee, 800
-Pickaxe_ID_044_TacticalUrbanHammer, 500
-Pickaxe_ID_122_Witch, 800
-Umbrella_PaperParasol, 500
-EID_TakeTheW, 500
-EID_JellyFrog, 500
+Glider_ID_133_BandageNinja, 1200
+Pickaxe_ID_035_Prismatic, 800
+BID_273_AssassinSuitCoin, 1000
+EID_RaiseTheRoof, 800
+EID_LasagnaDance, 800
+CID_663_Athena_Commando_F_Frogman, 800
